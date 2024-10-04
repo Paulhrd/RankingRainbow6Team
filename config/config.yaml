@@ -1,0 +1,12 @@
+liquipedia:
+  user_agent: "EloRankingBot/1.0 (; paul.hrd45@gmail.com)"
+
+elo:
+  K: 30
+  initial_elo: 1000
+
+twitter:
+  consumer_key: "your_consumer_key"
+  consumer_secret: "your_consumer_secret"
+  access_token: "your_access_token"
+  access_token_secret: "your_access_token_secret"

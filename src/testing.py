@@ -9,14 +9,14 @@ params = {
     "action": "query",
     "format": "json",
     "prop": "revisions",
-    "titles": "Six_Major/2023",  # Remplace par le nom de la page que tu veux récupérer
+    "titles": "Europe_League/2024/Stage_2",  # Remplace par le nom de la page que tu veux récupérer
     "rvprop": "content",
     "formatversion": "2"
 }
 
 # Header User-Agent personnalisé comme demandé par Liquipedia
 headers = {
-    "User-Agent": "EloRankingBot/1.0 (http://www.example.com/; email@example.com)",
+    "User-Agent": "EloRankingBot/1.0 (paul.hrd45@gmail.com)",
     "Accept-Encoding": "gzip"
 }
 
